@@ -1,6 +1,6 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-  .lesson{
+  .lessons{
     width:50%;
     margin-bottom:50px;
   }
@@ -14,18 +14,18 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-  .lesson{
+  .lessons{
     width:100%;
+  }
+  video{
+    width:"100";
+  }
+  audio{
+    width:"100"
   }
   .top-wrapper h1{
     font-size:24px;
     text-align:center;
     line-height:36px;
-  }
-  .btn{
-    width:100%;
-  
-  footer{
-    text-align:center;
   }
 }
