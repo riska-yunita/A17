@@ -1,17 +1,15 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
   .top-wrapper h1{
-    font-size:32px;
-  }
-  .heading h2{
-    font-size:20px;
+    font-size:30px;
   }
 }
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
   .top-wrapper h1{
-    font-size:24px;
+    font-size:20px;
+    letter-spacing: 1px;
     text-align:center;
     line-height:36px;
   }  
