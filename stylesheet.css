@@ -163,7 +163,14 @@ footer p {
 
 footer {
   background-color:#991c20;
-  float: left;
   position: relative;
   width: 100%;
+}
+
+footer-kiri{
+  float:left;
+}
+
+footer-kanan{
+  float:right;
 }
